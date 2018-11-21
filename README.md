@@ -1,4 +1,4 @@
 openwebwork.github.com
 ======================
 
-openwebwork organizaton pages
+openwebwork organization pages
